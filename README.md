@@ -19,5 +19,5 @@ Please enter the number you want to display :)
     5. Brute Triples - Pythagorean
     6. Better Way to do 5 
     
-    ```
+   
 ----------------------------------------------------------------
