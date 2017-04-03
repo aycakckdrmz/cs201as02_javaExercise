@@ -3,6 +3,7 @@
 ### CS201-Programming II Class Assignment 02 
 ### Date: Sep 2015
 ### Language: Java
+### IDE/Editor: Eclipse
 ----------------------------------------------------------------
 // Code is kept as it was when I first ever coded it on purpose, 
 as a point of referans in my history :)
